@@ -1,0 +1,389 @@
+body{
+    margin: 0;
+    width: 100%;
+}
+.logo{
+    width: 100%;
+    height: 108px;
+    background-color: #145F3D;
+    padding-left: 5px;
+    padding-right: 1px;
+
+}
+
+
+.img-style{
+    position: absolute; 
+    width: 20px;
+    margin-left: 1000px;
+    margin-top: 40px;
+
+}
+.img-location{
+    position:absolute; 
+    width: 20px;
+    margin-left: 1080px; 
+    margin-top: 40px;
+}
+.img-heart{
+    position:absolute;
+    width: 20px;
+    margin-left: 1160px;
+    margin-top:40px;
+}
+
+.img{
+    position: absolute;
+    width: 45px;
+    height: 45px;
+    text-align: center;
+    display: block;
+    margin-left: 600px;
+    margin-top: 25px;
+
+}
+
+.content{
+    text-align:center;
+    font-family: RolexFont-S, sans-serif;
+   
+    letter-spacing: 0.125em;
+    font-weight: 400;
+    margin-top: -1000px;
+     font-size: clamp(0.8125rem, 0.5938rem + 0.5469vw, 1.25rem); 
+    line-height: 1.4;
+    color:white;
+    Font-size: 16px;
+    Line-height: 18.2px;
+
+    
+}
+
+.content1{
+    margin-top: -35px;
+    text-align: center;
+     font-size: 33px; 
+    font-weight: 700;
+    font-family: Helvetica Text,Helvetica,Arial,sans-serif;
+    color: white;
+    Line-height: 68.3392px;
+
+ 
+}
+
+.content1 :hover{
+    background-color: #145F3D;
+}
+
+.learn{
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+    font-weight: bolder;
+    margin-top: 1px;
+    margin-left:580px;
+    border: 1px solid white;
+    color: white;
+    border-radius: 50px;
+    padding: 2px 15px;
+    
+}
+  .video1{
+    position: relative;
+    width: 100%;
+    height: 100vh;
+    overflow: hidden;
+    object-fit: contain;
+    cursor: pointer;
+} 
+
+.video2text1{
+    text-align:center;
+    font-family: RolexFont-S, sans-serif;
+    letter-spacing: 0.125em;
+    font-weight: 400;
+    margin-top: -1000px;
+     font-size: clamp(0.8125rem, 0.5938rem + 0.5469vw, 1.25rem); 
+    line-height: 1.4;
+    color:white;
+    Font-size: 16px;
+    Line-height: 18.2px;
+
+    
+}
+
+.video2text2{
+    margin-top: -35px;
+    text-align: center;
+     font-size: 33px; 
+    font-weight: 700;
+    font-family: Helvetica Text,Helvetica,Arial,sans-serif;
+    color: white;
+   
+    Line-height: 68.3392px;
+ 
+}
+.video2text3{
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+    font-weight: bolder;
+    margin-top: 1px;
+    margin-left:580px;
+    border: 1px solid white;
+    color: white;
+    border-radius: 50px;
+    padding: 2px 15px;
+    
+
+}
+.video3text1{
+    text-align:center;
+    font-family: RolexFont-S, sans-serif;
+    letter-spacing: 0.125em;
+    font-weight: 400;
+    margin-top: -1000px;
+     font-size: clamp(0.8125rem, 0.5938rem + 0.5469vw, 1.25rem); 
+    line-height: 1.4;
+    color:white;
+    Font-size: 16px;
+    Line-height: 18.2px;
+
+    
+}
+
+.video3text2{
+    margin-top: -35px;
+    text-align: center;
+     font-size: 33px; 
+    font-weight: 700;
+    font-family: Helvetica Text,Helvetica,Arial,sans-serif;
+    color: white;
+   
+    Line-height: 68.3392px;
+ 
+}
+.video3text3{
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+    font-weight: bolder;
+    margin-top: 1px;
+    margin-left:580px;
+    border: 1px solid white;
+    color: white;
+    border-radius: 50px;
+    padding: 2px 15px;
+    
+
+}
+.video4text1{
+    text-align:center;
+    font-family: RolexFont-S, sans-serif;
+    letter-spacing: 0.125em;
+    font-weight: 400;
+    margin-top: -900px;
+     font-size: clamp(0.8125rem, 0.5938rem + 0.5469vw, 1.25rem); 
+    line-height: 1.4;
+    color:white;
+    Font-size: 16px;
+    Line-height: 18.2px;
+
+    
+}
+
+.video4text2{
+    margin-top: -35px;
+    text-align: center;
+     font-size: 33px; 
+    font-weight: 700;
+    font-family: Helvetica Text,Helvetica,Arial,sans-serif;
+    color: white;
+   
+    Line-height: 68.3392px;
+ 
+}
+.video4text3{
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+    font-weight: bolder;
+    margin-top: 1px;
+    margin-left:580px;
+    border: 1px solid white;
+    color: white;
+    border-radius: 50px;
+    padding: 2px 15px;
+    
+
+}
+
+.list1{
+    width:-20px;
+    text-align: left;
+    display: inline-block;
+    list-style: none;
+    font-family:Helvetica Text, Helvetica, Arial, sans-serif;
+    font-size: 15px;
+    Font-weight: 700;
+    Line-height: 19.25px;
+    font-color: rgb(33, 33, 33);
+    margin-left: 20px;
+    padding-top: 5px;
+    
+   
+    
+}
+.l1-style{
+    display: inline-block;
+    list-style: none;
+    margin: 8px 5px; 
+    text-decoration: none;
+    color: rgb(5,100,61); 
+}
+.list1:hover img{
+    color: white;
+}
+.sharebutton:hover img{
+    color: aliceblue;
+
+}
+
+.sharebutton{
+    padding-left: 140px;
+    padding-bottom: 100px;
+    margin-top: -51px;
+  
+}
+    
+    
+.rolexlogo{
+    background-color: #f8f8f8;
+  
+}
+.rolexlogo1{
+    width: 80px;
+   margin-top: 60px;
+   margin-left: 105px;
+}
+nav ul li{
+    list-style: none;
+    padding-left: 320px;
+    Line-height: 26.8511px;
+}
+nav ul li a{
+    text-decoration: none;
+    color: black;
+    font-family:Helvetica Now Text, Helvetica, Arial, sans-serif
+   
+}
+nav ul li a:hover{
+    color:green;
+}
+
+.text1{
+    margin-top: -63px;
+}
+.text2{
+    margin-left: 300px;
+    margin-top: -203px;
+}
+.text3{
+    margin-top: 58px;
+}
+.text4{
+    margin-top: 30px;
+}
+.text5{
+    margin-left: 300px;
+    margin-top: -580px;
+}
+.text6{
+    margin-left: 300px;
+    margin-top: 34px;
+}    
+.text7{
+    margin-left: 300px;
+    margin-top: 34px;
+}
+.newimage{
+    width:15px;
+}
+.newimage:hover{
+    color:green;
+
+}
+.text8{
+    margin-left: 300px;
+    margin-top: 34px;
+}
+.text9{
+    margin-left: 600px;
+    margin-top: -768px;
+}
+.text10{
+    margin-left: 600px;
+    margin-top: 34px;
+
+}
+.text11{
+    margin-left: 600px;
+    margin-top: 34px;
+    
+   
+
+}
+.text12{
+   margin-top: -265px;
+   margin-left: 650px;
+ }
+ .line{
+    margin-top: 150px;
+    margin-left: -240px;
+    opacity: 0.19;
+ }
+ .globe{
+    width: 380px;
+    margin-left: -240px;
+    margin-top: 25px;
+ 
+    
+ }
+ .globe:hover{
+    color: #145F3D;
+ }
+ .language{
+    margin-left:30px;
+    margin-top: -32px;
+ }
+ .sunset{
+    width: 100%;
+    height: 350px;
+    
+ }
+ .lastline{
+    font-family:Helvetica Text, Helvetica, Arial, sans-serif;
+    margin-top: -240px;
+    text-align: center;
+    color: white;
+
+    
+ }
+ .lastline:hover{
+    color: #122b20;
+ }
+ .a1 .lastlineink{
+    color: white;
+    text-align: center;
+    text-decoration: none;
+   
+ }
+ .newimage1{
+    width:15px;
+    color: white;
+    padding-left: 10px;
+}
+.newimage:hover{
+    color:green;
+
+}
